@@ -8,3 +8,4 @@ We use Git Atom AWS Serverless in this portfolio
 github
 SSH
 Atom
+brew
