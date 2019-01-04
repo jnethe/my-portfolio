@@ -1,2 +1,3 @@
-# my-portfolio
-This is my serverless portfolio
+# Jason Netherton's Serverless Portfolio
+
+We use Git Atom AWS Serverless in this portfolio
