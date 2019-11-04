@@ -1,11 +1,1 @@
-# Jason Netherton's Serverless Portfolio
-
-We use Git Atom AWS Serverless in this portfolio
-
-
-## Technologies used
-
-github
-SSH
-Atom
-brew
+let's get this 'port'y started right!
